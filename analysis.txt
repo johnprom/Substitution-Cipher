@@ -1,0 +1,69 @@
+ANALYSIS:
+
+ciphertext:
+CKCLBAELDK DGJ LFNSMBCA CGQEGCCAI JCUCKFS DGJ LACDBC SAFJMLBI BHDB LHDGQC BHC OFAKJ DGJ NDVC FMA KEUCI CDIECA BHC LCKK SHFGCI OC JCSCGJ FG BHC LFNSMBCAI MICJ EG GDBEFGDK ICLMAEBR DGJ BHC CKCLBAELDK IRIBCNI BHDB NDVC FMA LDAI FSCADBC OCAC DKK LACDBCJ TR CKCLBAELDK DGJ LFNSMBCA CGQEGCCAI DB OSE OC VCCS BHDB SAFQACII NFUEGQ PFAODAJ OEBH FMA EGGFUDBEUC ACICDALH DGJ FMB-FP-BHC TFY DSSAFDLHCI BHC JCSDABNCGB FP CKCLBAELDK DGJ LFNSMBCA CGQEGCCAEGQ DB OSE LHDKKCGQCI IBMJCGBI BF SMIH BHCNICKUCI BF MGJCAIBDGJ IFLECBRI DGJ BCLHGFKFQRI LFNSKCY EIIMCI EG D TAFDJCA LFGBCYB BHDG OHDBI EG PAFGB FP BHCN OC ODGB FMA IBMJCGBI OHCBHCA BHCR DAC CDAGEGQ DG MGJCAQADJMDBC NEGFA FA D JFLBFADBC BF BDLVKC IFLECBRI NFIB SACIIEGQ SAFTKCNI DGJ MGLFUCA GCO ODRI FP IFKUEGQ BHCN OHCBHCA EBI JCUCKFSEGQ IRIBCNI BHDB LDG KFLDBC PEACPEQHBCAI EG BHC NEJJKC FP D TMAGEGQ TMEKJEGQ FA LACDBEGQ GCMAFSAFIBHCBELI BHDB KFFV DGJ PMGLBEFG KEVC GDBMADK KENTI FMA PDLMKBR DGJ IBMJCGBI DAC DB BHC PAFGB CJQC FP ACNDAVDTKC EGGFUDBEFG OHEKC DJUDGLEGQ BCLHGFKFQECI EI DB FMA LFAC OC DKIF BDVC HMNDG LFGGCLBEFGI UCAR ICAEFMIKR EG CLC OC SAEJC FMAICKUCI FG BHC PDNEKR-KEVC DBNFISHCAC OC LMKBEUDBC; PDLMKBR IBMJCGBI DGJ IBDPP CGLFMADQC CDLH FBHCAI CUCAR IMLLCII DGJ DAC BHCAC PFA BHC LHDKKCGQCI TFBH EG BHC LKDIIAFFN DGJ EG KEPC
+
+plaintext:
+electrical and computer engineers develop and create products that change the world and make our lives easier the cell phones we depend on the computers used in national security and the electrical systems that make our cars operate were all created by electrical and computer engineers at wpi we keep that progress moving forward with our innovative research and out-of-the box approaches the department of electrical and computer engineering at wpi challenges students to push themselves to understand societys and technologys complex issues in a broader context than whats in front of them we want our students whether they are earning an undergraduate minor or a doctorate to tackle societys most pressing problems and uncover new ways of solving them whether its developing systems that can locate firefighters in the middle of a burning building or creating neuroprosthetics that look and function like natural limbs our faculty and students are at the front edge of remarkable innovation while advancing technologies is at our core we also take human connections very seriously in ece we pride ourselves on the family-like atmosphere we cultivate; faculty students and staff encourage each others every success and are there for the challenges both in the classroom and in life
+
+Key:
+{'A': 'r', 'B': 't', 'C': 'e', 'D': 'a', 'E': 'i', 'F': 'o', 'G': 'n', 'H': 'h', 'I': 's', 'J': 'd', 'K': 'l', 'L': 'c', 'M': 'u', 'N': 'm', 'O': 'w', 'P': 'f', 'Q': 'g', 'R': 'y', 'S': 'p', 'T': 'b', 'U': 'v', 'V': 'k', 'W': 'q', 'X': 'j', 'Y': 'x', 'Z': 'z'}
+
+Approx. Accuracy of Initital Frequency Analysis and Substitution: 52%
+Total Char: 1284   Initally Correct: 668   Manual Swaps: 11
+
+Ciphertext Letter Frequencies:
+A  |  Relative Frequency: 0.0584  |  Frequency: 75
+B  |  Relative Frequency: 0.0779  |  Frequency: 100
+C  |  Relative Frequency: 0.1168  |  Frequency: 150
+D  |  Relative Frequency: 0.0670  |  Frequency: 86
+E  |  Relative Frequency: 0.0452  |  Frequency: 58
+F  |  Relative Frequency: 0.0592  |  Frequency: 76
+G  |  Relative Frequency: 0.0646  |  Frequency: 83
+H  |  Relative Frequency: 0.0350  |  Frequency: 45
+I  |  Relative Frequency: 0.0545  |  Frequency: 70
+J  |  Relative Frequency: 0.0312  |  Frequency: 40
+K  |  Relative Frequency: 0.0366  |  Frequency: 47
+L  |  Relative Frequency: 0.0389  |  Frequency: 50
+M  |  Relative Frequency: 0.0288  |  Frequency: 37
+N  |  Relative Frequency: 0.0187  |  Frequency: 24
+O  |  Relative Frequency: 0.0148  |  Frequency: 19
+P  |  Relative Frequency: 0.0148  |  Frequency: 19
+Q  |  Relative Frequency: 0.0179  |  Frequency: 23
+R  |  Relative Frequency: 0.0117  |  Frequency: 15
+S  |  Relative Frequency: 0.0187  |  Frequency: 24
+T  |  Relative Frequency: 0.0070  |  Frequency: 9
+U  |  Relative Frequency: 0.0117  |  Frequency: 15
+V  |  Relative Frequency: 0.0070  |  Frequency: 9
+W  |  Relative Frequency: 0.0000  |  Frequency: 0
+X  |  Relative Frequency: 0.0000  |  Frequency: 0
+Y  |  Relative Frequency: 0.0023  |  Frequency: 3
+Z  |  Relative Frequency: 0.0000  |  Frequency: 0
+
+Plaintext Cipher Frequencies:
+a  |  Relative Frequency: 0.0670  |  Frequency: 86
+b  |  Relative Frequency: 0.0070  |  Frequency: 9
+c  |  Relative Frequency: 0.0389  |  Frequency: 50
+d  |  Relative Frequency: 0.0312  |  Frequency: 40
+e  |  Relative Frequency: 0.1168  |  Frequency: 150
+f  |  Relative Frequency: 0.0148  |  Frequency: 19
+g  |  Relative Frequency: 0.0179  |  Frequency: 23
+h  |  Relative Frequency: 0.0350  |  Frequency: 45
+i  |  Relative Frequency: 0.0452  |  Frequency: 58
+j  |  Relative Frequency: 0.0000  |  Frequency: 0
+k  |  Relative Frequency: 0.0070  |  Frequency: 9
+l  |  Relative Frequency: 0.0366  |  Frequency: 47
+m  |  Relative Frequency: 0.0187  |  Frequency: 24
+n  |  Relative Frequency: 0.0646  |  Frequency: 83
+o  |  Relative Frequency: 0.0592  |  Frequency: 76
+p  |  Relative Frequency: 0.0187  |  Frequency: 24
+q  |  Relative Frequency: 0.0000  |  Frequency: 0
+r  |  Relative Frequency: 0.0584  |  Frequency: 75
+s  |  Relative Frequency: 0.0545  |  Frequency: 70
+t  |  Relative Frequency: 0.0779  |  Frequency: 100
+u  |  Relative Frequency: 0.0288  |  Frequency: 37
+v  |  Relative Frequency: 0.0117  |  Frequency: 15
+w  |  Relative Frequency: 0.0148  |  Frequency: 19
+x  |  Relative Frequency: 0.0023  |  Frequency: 3
+y  |  Relative Frequency: 0.0117  |  Frequency: 15
+z  |  Relative Frequency: 0.0000  |  Frequency: 0
